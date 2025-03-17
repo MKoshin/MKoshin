@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MKoshin
-- 👀 I’m interested in ... learn JavaScript.
-- 🌱 I’m currently learning ... JavaScript, Html, CSS.
-- 💞️ I’m looking to collaborate on ... at the moment just learning.
-- 📫 How to reach me ... at the moment just learning.
-- 
+- 👋 Hi, I’m @MKoshin, my name is Marco.
+- Currently studying Systems Analysis and Development.
+-  I’m currently learning, JavaScript, Html, CSS, C, C++.
+- 💞️ I am currently learning more about the area I love
